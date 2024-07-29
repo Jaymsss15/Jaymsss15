@@ -5,10 +5,10 @@
 <h3 align="center">👨‍💻 Software Developer</h3>
 
 <h3 align="left">🙋‍♂️ About Me</h3>
-Hello, I'm Tiago, a software developer passionate about crafting innovative solutions. I take my work seriously, with a strong commitment to professionalism and achieving my goals.
+Hello I'm Tiago a software developer passionate about crafting innovative solutions.
 
 <h3 align="left">⭐ Curiosities</h3>
-I'm passionate about music. I'm a guitarist in a band and also enjoy playing the piano. 
+I love music. I'm a guitarist in a band and also enjoy playing the piano. 
 
 <h3 align="left">💼 Professional Opportunities</h3>
 I'm looking for challenges and opportunities that keep me constantly learning and growing.
