@@ -4,15 +4,26 @@
 
 <h3 align="center">👨‍💻 Software Developer</h3>
 
+<div align="center">
+  <h2></h2>
+</div>
+
 <h3 align="left">🙋‍♂️ About Me</h3>
-Hello I'm Tiago a software developer passionate about crafting innovative solutions.
+<ul>
+<li>Hello, I'm Tiago, a software developer passionate about crafting innovative solutions.</li>
+</ul>
 
 <h3 align="left">⭐ Curiosities</h3>
-I love music. I'm a guitarist in a band and also enjoy playing the piano. 
+<ul>
+  <li>I love music. I'm a guitarist in a band and also enjoy playing the piano.</li>
+</ul>
 
 <h3 align="left">💼 Professional Opportunities</h3>
-I'm looking for challenges and opportunities that keep me constantly learning and growing.
+<ul>
+  <li>I'm looking for challenges and opportunities that keep me constantly learning and growing.</li>
+</ul>
 <br/><br/>
+
 
 <br>
 <div align="center" style="display: flex; flex-direction: row; justify-content: center;">
@@ -32,6 +43,11 @@ I'm looking for challenges and opportunities that keep me constantly learning an
   <a href="https://www.linkedin.com/in/tiago-marques-789b3031b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+      <a href="https://jaymsss15.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-jaymsss15.github.io-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
+  </a>
 </div>
+
+
 
 
